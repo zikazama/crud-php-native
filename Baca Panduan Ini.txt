@@ -1,0 +1,4 @@
+1. copy paste folder project ke xampp/htdocs
+2. Import sql pada tp2_toko.sql
+3. Sebelumnya mengakses web nya , mohon melakukan konfigurasi di file koneksi.php sesuaikan dengan phpmyadmin 
+4. akses http://localhost:81/project/index.php --> 81 merupakan angka port yang ada di XAMPP
